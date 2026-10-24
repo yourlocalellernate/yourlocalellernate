@@ -3,7 +3,8 @@
 
 ichance gif.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/acf244e0-d1c6-4c1f-8188-92aaab0c1cae" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fb03f1f9-a93b-4086-8672-7e191e1d5e83" />
+
 
 
 lyrics for uhm.. yeah
