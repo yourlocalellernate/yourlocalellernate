@@ -1,3 +1,5 @@
+work in progress!! sorry boii
+
 
 <img width="400" height="363" alt="image" src="https://github.com/user-attachments/assets/3b23f831-f371-44a1-9112-84851f2cc611" />
 
@@ -17,7 +19,6 @@ Mou itai itai
 Aa retsutoukan haiboku-kan kiete kure yo
 Munashiku narukara
 
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/0372c576-b062-429a-b694-e460de87b58f" />
 
 
 <p align="left">
