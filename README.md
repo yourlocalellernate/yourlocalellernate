@@ -16,7 +16,7 @@ ichance gif.
     <br><br>
 <div align="center" clear="left">
 <p>
-<br>
+<br><br><br>
 Kizuguchinishio nuri kondara <br>
 Sorya itai itai <br>
 Demo kizuguchi ni satou nuri komu mo <br>
