@@ -3,6 +3,8 @@
 
 ichance gif.
 
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/acf244e0-d1c6-4c1f-8188-92aaab0c1cae" />
+
 
 lyrics for uhm.. yeah
 Kizuguchinishio nuri kondara
