@@ -14,10 +14,9 @@ ichance gif.
 
   <div align="center">
     <br><br>
+<div align="center" clear="left">
     <p>text</p>
   </div>
-</div>
-
 
 
 
