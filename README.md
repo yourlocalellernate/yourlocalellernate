@@ -17,7 +17,8 @@ ichance gif.
 <div align="center" clear="left">
     <p>text</p>
   </div>
-
+    
+<div style="clear: both;"></div>
 
 
 lyrics for uhm.. yeah
