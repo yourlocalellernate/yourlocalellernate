@@ -17,7 +17,8 @@ Mou itai itai
 Aa retsutoukan haiboku-kan kiete kure yo
 Munashiku narukara
 
+<p align="left">
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0530c00e-c0da-41c4-ab19-beb4cf6ccab6" />
 
 <br clear="left">
-<br clear="left">
+
