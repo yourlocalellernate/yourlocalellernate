@@ -5,7 +5,19 @@ work in progress!! sorry boii
 
 ichance gif.
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fb03f1f9-a93b-4086-8672-7e191e1d5e83" />
+<div align="center">
+  <img
+    src="https://github.com/user-attachments/assets/0372c576-b062-429a-b694-e460de87b58f"
+    width="45%"
+    align="left"
+  />
+
+  <div align="center">
+    <br><br>
+    <p>text</p>
+  </div>
+</div>
+
 
 
 
@@ -25,4 +37,5 @@ Munashiku narukara
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0530c00e-c0da-41c4-ab19-beb4cf6ccab6" />
 
 <br clear="left">
+
 
