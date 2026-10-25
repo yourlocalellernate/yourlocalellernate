@@ -7,14 +7,10 @@ sadly not phone friendly
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&letterSpacing=Normal&duration=7000&pause=1000&color=63594F&width=435&lines=%E2%80%9C+Oh+i+guess+i+wasn%E2%80%99t+really+enough+for+you%2C+itrapped.%E2%80%9D)](https://git.io/typing-svg)
 
 <div align="center">
-  <img
-    src="https://github.com/user-attachments/assets/0372c576-b062-429a-b694-e460de87b58f"
-    width="45%"
-    align="left"
-  />
+<img src="https://github.com/user-attachments/assets/0372c576-b062-429a-b694-e460de87b58f" width="45%" align="left"/>
 
-  <div align="center">
-    <br><br>
+<div align="center">
+<br><br>
 <div align="center" clear="left">
 <p>
 <br>
