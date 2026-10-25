@@ -21,13 +21,10 @@ ichance gif.
 <br><br><br>
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 <br><br><br>
-Kizuguchinishio nuri kondara <br>
-Sorya itai itai <br>
+Kizuguchinishio nuri kondara. Sorya itai itai <br>
 Demo kizuguchi ni satou nuri komu mo <br>
-Kitto itai <br>
-Kizuguchi ni ano ko no yasashii-sa ga <br>
-Mou itai itai <br>
-Aa retsutoukan haiboku-kan kiete kure yo <br>
+Kitto itai, Kizuguchi ni ano ko no yasashii-sa ga <br>
+Mou itai itai. Aa retsutoukan haiboku-kan kiete kure yo <br>
 Munashiku narukara <br>
 <br>
 </p>
