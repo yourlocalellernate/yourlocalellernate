@@ -21,11 +21,11 @@ ichance gif.
 <br><br><br>
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 <br><br><br>
-Kizuguchinishio nuri kondara. Sorya itai itai <br>
-Demo kizuguchi ni satou nuri komu mo <br>
-Kitto itai, Kizuguchi ni ano ko no yasashii-sa ga <br>
-Mou itai itai. Aa retsutoukan haiboku-kan kiete kure yo <br>
-Munashiku narukara <br>
+| 𝙘 𝙝 𝙖 𝙣 𝙘 𝙚   |  |
+| --- | --- |
+  
+hii
+
 <br>
 </p>
   </div>
@@ -39,5 +39,4 @@ Munashiku narukara <br>
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0530c00e-c0da-41c4-ab19-beb4cf6ccab6" />
 
 <br clear="left">
-
 
