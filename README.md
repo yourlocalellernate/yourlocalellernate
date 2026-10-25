@@ -1,9 +1,6 @@
 work in progress!! sorry boii
 
-
-<img width="400" height="363" alt="image" src="https://github.com/user-attachments/assets/3b23f831-f371-44a1-9112-84851f2cc611" />
-
-ichance gif.
+ichance gif do not download.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&letterSpacing=Normal&duration=7000&pause=1000&color=63594F&width=435&lines=%E2%80%9C+Oh+i+guess+i+wasn%E2%80%99t+really+enough+for+you%2C+itrapped.%E2%80%9D)](https://git.io/typing-svg)
 
@@ -18,10 +15,15 @@ ichance gif.
     <br><br>
 <div align="center" clear="left">
 <p>
-<br><br><br>
+<br>
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
-<br><br><br>
+<br>
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3b23f831-f371-44a1-9112-84851f2cc611" /> <br>
+  
 ``` 𝙘 𝙝 𝙖 𝙣 𝙘 𝙚 !! ```
+
+
+
 
 <br>
 </p>
