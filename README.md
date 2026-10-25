@@ -2,6 +2,8 @@ work in progress!! sorry boii
 
 ichance gif do not download.
 
+sadly not phone friendly
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=16&letterSpacing=Normal&duration=7000&pause=1000&color=63594F&width=435&lines=%E2%80%9C+Oh+i+guess+i+wasn%E2%80%99t+really+enough+for+you%2C+itrapped.%E2%80%9D)](https://git.io/typing-svg)
 
 <div align="center">
