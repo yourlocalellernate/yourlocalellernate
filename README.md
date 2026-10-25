@@ -33,6 +33,14 @@ ichance gif do not download.
 
 <br><br><br><br>
 <br><br><br><br>
+
+<div align="left"> <details>
+### <summary>${{\color{#63594F}\normalsize{\textsf{byi}}}}$</summary>
+
+${{\color{#63594F}\normalsize{\textsf{…}}}}$ <br>
+test
+</details>
+
 <br><br><br><br>
 <br><br><br><br>
 
