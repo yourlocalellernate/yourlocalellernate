@@ -13,7 +13,6 @@ sadly not phone friendly
 <br><br>
 <div align="center" clear="left">
 <p>
-<br>
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 <br>
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/3b23f831-f371-44a1-9112-84851f2cc611" /> 
