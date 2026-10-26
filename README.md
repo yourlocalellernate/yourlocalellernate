@@ -5,7 +5,10 @@ work in progress!! sorry boii
 
 changing this to vilicaleb drooolllss..
 
-<img width="1922" height="1537" alt="image" src="https://github.com/user-attachments/assets/2a46ce62-209b-48de-85ab-9533458116de" />
+<p align="center">
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2a46ce62-209b-48de-85ab-9533458116de" />
+
+<br><br><br>
 
 <img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
