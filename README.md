@@ -42,7 +42,7 @@ ${{\color{#86664E}\tiny{\textsf{making it difficult to respond to situations the
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i sadly put pressure on myself to meet my own expectations. }}}}$ <br> 
+${{\color{#86664E}\tiny{\textsf{i put pressure on myself to meet my own expectations. }}}}$ <br> 
 ${{\color{#86664E}\tiny{\textsf{and falling short can leave me feeling frustrated, inadequate,}}}}$ <br> 
 ${{\color{#86664E}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
 
