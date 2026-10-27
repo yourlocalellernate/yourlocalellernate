@@ -10,7 +10,7 @@ work in progress!! sorry boii
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2a46ce62-209b-48de-85ab-9533458116de" />
 
 <br><br>
-${{\color{#86664E}\tiny{\textsf{by my friend pomero on tt/pin}}}}$ 
+${{\color{#86664E}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/34fbdf70-608d-4098-9cad-7997488e22a9" /></picture> ${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
 <hr>
@@ -52,7 +52,5 @@ ${{\color{#86664E}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
 
 <img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
-
- by pomero lol
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
