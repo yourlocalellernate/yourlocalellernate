@@ -19,7 +19,7 @@ ${{\color{#86664E}\tiny{\textsf{by my friend pomero on tt/pin}}}}$
 ${{\color{#86664E}\tiny{\textsf{english speaker.}}}}$ <br>
  
 ${{\color{#86664E}\tiny{\textsf{overthinker.}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{overwelmed as talk to many people at the same time.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
 
 
