@@ -3,7 +3,8 @@
 
 work in progress!! sorry boii
 
-changing this to vilicaleb drooolllss..
+<p align="center">
+<a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=flat-square&label=vilicaleb%20yaoi...%20ok%20sorry&extraCount=243&color=37502d&labelColor=684d42"/></a>
 
 <p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2a46ce62-209b-48de-85ab-9533458116de" />
