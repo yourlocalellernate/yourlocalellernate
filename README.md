@@ -16,10 +16,11 @@ work in progress!! sorry boii
 <hr>
 
 <p align="left">
-${{\color{#86664E}\tiny{\textsf{english speaker}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{im sometimes carelessly rude}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{no kisses unless ur a friend or partner}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i really do not mind sexual jokes unless said repeatedly all the time}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{english speaker.}}}}$ <br>
+ 
+${{\color{#86664E}\tiny{\textsf{overthinker.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{overwelmed as talk to many people at the same time.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
 
 
 <div align="left"> <details>
@@ -34,7 +35,7 @@ ${{\color{#86664E}\tiny{\textsf{especially when my emotions become intense..}}}}
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{i can struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{making it dif to respond to situations the way id prefer.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{making it difficult to respond to situations the way id prefer.}}}}$ <br>
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
