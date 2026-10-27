@@ -9,7 +9,45 @@ work in progress!! sorry boii
 <p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/2a46ce62-209b-48de-85ab-9533458116de" />
 
-<br><br><br>
+<br><br>
+
+<div align="center"> <details>
+<summary>${{\color{#86664E}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
+<hr>
+
+<p align="left">
+${{\color{#86664E}\tiny{\textsf{english speaker}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{im sometimes carelessly rude}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{no kisses unless ur a friend or partner}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i really do not mind sexual jokes unless said repeatedly all the time}}}}$ <br>
+
+
+<div align="center"> <details>
+<summary>${{\color{#86664E}\huge{\textsf{other…}}}}$</summary>
+
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i can experience sudden, frequent changes in my moods and emotions. }}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{making it difficult to process, manage, or regulate how i feel,}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
+
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i can struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{making it dif to respond to situations the way id prefer.}}}}$ <br>
+
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i sadly put pressure on myself to meet my own expectations. }}}}$ <br> 
+${{\color{#86664E}\tiny{\textsf{and falling short can leave me feeling frustrated, inadequate,}}}}$ <br> 
+${{\color{#86664E}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
+
+</details>
+
+<hr>
+</details>
+
+<br>
 
 <img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
