@@ -27,24 +27,18 @@ ${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
 
 
 <div align="left"> <details open>
-<summary>${{\color{#86664E}\huge{\textsf{other… (click to hide.)}}}}$</summary>
-
+<summary>${{\color{#86664E}\huge{\textsf{mental expe… (click to hide.)}}}}$</summary>
+<br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i experience suddenn, frequent changes in my moods and emotions. }}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{making it difficult to process, manage, or regulate how i feel,}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
-
+${{\color{#86664E}\normalsize{\textsf{rapid mood swing}}}}$ <br>
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{emotional shifts}}}}$ <br>
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{making it difficult to respond to situations the way id prefer.}}}}$ <br>
-
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i put pressure on myself to meet my own expectations. }}}}$ <br> 
-${{\color{#86664E}\tiny{\textsf{and falling short can leave me feeling frustrated, inadequate,}}}}$ <br> 
-${{\color{#86664E}\tiny{\textsf{or unable to appreciate what ive made.}}}}$ <br>
+<p align="left">
+${{\color{#86664E}\normalsize{\textsf{overthinking}}}}$ <br>
 
 </details>
 
