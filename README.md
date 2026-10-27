@@ -31,13 +31,13 @@ ${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i can experience sudden, frequent changes in my moods and emotions. }}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i experience sudden, frequent changes in my moods and emotions. }}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{making it difficult to process, manage, or regulate how i feel,}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i can struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i struggle to process, manage, or calm my emotions once they become intense,}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{making it difficult to respond to situations the way id prefer.}}}}$ <br>
 
 <p align="left">
