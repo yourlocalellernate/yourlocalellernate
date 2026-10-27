@@ -3,6 +3,9 @@
 
 work in progress!! sorry boii
 
+what does other people call their nonbinary partner or one that doesnt use both terms <br>
+do they call them nonfriend/personfriend? haha ok im so sorry this is so stupid
+
 <p align="center">
 <a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=flat-square&label=vilicaleb%20yaoi...%20ok%20sorry&extraCount=243&color=37502d&labelColor=684d42"/></a>
 
