@@ -26,12 +26,12 @@ ${{\color{#86664E}\tiny{\textsf{i get overwelmed sometimes when i talk to many p
 ${{\color{#86664E}\tiny{\textsf{idk}}}}$ <br>
 
 
-<div align="left"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{other…}}}}$</summary>
+<div align="left"> <details open>
+<summary>${{\color{#86664E}\huge{\textsf{other… (click to hide.)}}}}$</summary>
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{rapid mood swings + emotional shifts}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{i experience sudden, frequent changes in my moods and emotions. }}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{i experience suddenn, frequent changes in my moods and emotions. }}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{making it difficult to process, manage, or regulate how i feel,}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{especially when my emotions become intense..}}}}$ <br>
 
