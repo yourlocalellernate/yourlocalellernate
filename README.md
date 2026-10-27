@@ -11,7 +11,7 @@ work in progress!! sorry boii
 
 <br><br>
 
-<div align="center"> <details>
+<div align="left"> <details>
 <summary>${{\color{#86664E}\huge{\textsf{𝘽𝙔𝙄}}}}$</summary>
 <hr>
 
@@ -22,7 +22,7 @@ ${{\color{#86664E}\tiny{\textsf{no kisses unless ur a friend or partner}}}}$ <br
 ${{\color{#86664E}\tiny{\textsf{i really do not mind sexual jokes unless said repeatedly all the time}}}}$ <br>
 
 
-<div align="center"> <details>
+<div align="left"> <details>
 <summary>${{\color{#86664E}\huge{\textsf{other…}}}}$</summary>
 
 <p align="left">
