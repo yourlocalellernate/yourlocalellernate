@@ -54,7 +54,7 @@ ${{\color{#86664E}\normalsize{\textsf{overthinking}}}}$ <br>
 
 
 <div align="right"> <details>
-<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/2eeecc19-5b7c-49d8-8234-ef45a65c8672" /></picture> ${{\color{#86664E}\huge{\textsf{ text 𓎢𓎠𓎟𓎠𓎡 }}}}$</summary>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/2eeecc19-5b7c-49d8-8234-ef45a65c8672" /></picture> ${{\color{#86664E}\huge{\textsf{ 𝘼𝘽𝙊𝙐𝙏 𓎢𓎠𓎟𓎠𓎡 }}}}$</summary>
 <hr>
 
 <p align="right">
