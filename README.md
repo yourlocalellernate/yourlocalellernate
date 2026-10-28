@@ -68,5 +68,6 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
 
+<img width="2000" height="1023" alt="image" src="https://github.com/user-attachments/assets/63afbd69-7c48-45c0-b3bb-e521a6d96791" />
 
 
