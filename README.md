@@ -54,21 +54,16 @@ ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 <hr>
 
 <p align="right">
- 
-${{\color{#86664E}\tiny{\textsf{hii im isaac !!}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+
+${{\color{#86664E}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{extrovert}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
 <hr>
 </details>
 
-<img width="2000" height="1300" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
+<img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
