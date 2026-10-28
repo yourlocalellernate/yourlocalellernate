@@ -39,6 +39,8 @@ ${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{overthinking}}}}$ <br>
+ 
+${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 
 </details>
 
