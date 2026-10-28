@@ -70,7 +70,7 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 
 <a href="https://yourlocalellernate.atabook.org">
 <picture>
-<img width="2000" height="1023" alt="image" src="https://github.com/user-attachments/assets/63afbd69-7c48-45c0-b3bb-e521a6d96791" />
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/63afbd69-7c48-45c0-b3bb-e521a6d96791" />
 </picture>
 </a>
 
