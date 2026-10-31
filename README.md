@@ -76,4 +76,6 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 </picture>
 </a>
 
+<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/9320903b-7185-4be8-a5db-c5a1b39bdc3d" />
+
 
