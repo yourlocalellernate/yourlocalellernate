@@ -65,6 +65,22 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <hr>
 </details>
 
+<br>
+
+<div align="left"> <details>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/9320903b-7185-4be8-a5db-c5a1b39bdc3d" /></picture>${{\color{#86664E}\huge{\textsf{workinprogress}}}}$</summary>
+<br>
+
+<p align="left">
+
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
+<br>
+
+</details>
+
+ <br>
+
 <img width="1500" height="1000" alt="image" src="https://github.com/user-attachments/assets/c34425aa-cccb-480b-b7d7-d920749ae470" />
 
 
@@ -76,6 +92,6 @@ ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 </picture>
 </a>
 
-<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/9320903b-7185-4be8-a5db-c5a1b39bdc3d" />
+
 
 
