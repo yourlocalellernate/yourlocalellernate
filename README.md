@@ -52,7 +52,7 @@ ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 <br>
 
 <div align="right"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{ 𝘼𝘽𝙊𝙐𝙏 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/2eeecc19-5b7c-49d8-8234-ef45a65c8672" /></picture> </summary>
+<summary>${{\color{#86664E}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/2eeecc19-5b7c-49d8-8234-ef45a65c8672" /></picture> </summary>
 <hr>
 
 <p align="right">
