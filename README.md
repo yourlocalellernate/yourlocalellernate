@@ -1,3 +1,4 @@
 hi shitlings
 
-<img width="1922" height="1537" alt="image" src="https://github.com/user-attachments/assets/1c7aa719-fa7a-4d96-bbda-9b96d6e58f51" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/d415c3d6-6bdd-4ddf-a6fe-5e8a5c26eac4" />
+
