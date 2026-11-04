@@ -20,7 +20,8 @@ ${{\color{#86664E}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀my⠀⠀⋮⠀⠀intro�
 
 ${{\color{#86664E}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
 <div align="left"> <details>
-<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/72b689fa-7ae8-43a0-a851-ad9ecc9f8f82" /></picture> ${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/37899867-e59f-4883-8b08-eb728f27aabc" />
+</picture> ${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
 <hr>
 
 <p align="left">
@@ -64,7 +65,7 @@ ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 <br>
 
 <div align="right"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/2eeecc19-5b7c-49d8-8234-ef45a65c8672" /></picture> </summary>
+<summary>${{\color{#86664E}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/72b689fa-7ae8-43a0-a851-ad9ecc9f8f82" /></picture> </summary>
 <hr>
 
 <p align="right">
