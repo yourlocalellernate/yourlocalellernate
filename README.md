@@ -97,15 +97,31 @@ ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
 
 ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
 
-<p align="left">
+<hr>
 
+<p align="left">
+${{\color{#86664E}\big{\textsf{discriminators}}}}$ <br>
+ 
 ${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
+
+<hr>
 
 ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
 
 </details> 
 
