@@ -5,7 +5,7 @@
 
 <br><br>
 
- text
+${{\color{#86664E}\tiny{\textsf{text}}}}$ 
  
 <br><br>
 
