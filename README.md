@@ -95,15 +95,16 @@ ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
 <summary><picture><img width="130" height="100" alt="image" src="https://github.com/user-attachments/assets/be5d9783-1ee3-4bb5-aa31-528224e61fa7" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
-${{\color{#86664E}\huge{\textsf{dni if you support or one of these.}}}}$ <br>
+${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
 
 <p align="left">
 
-${{\color{#86664E}\tiny{\textsf{transphobic}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{racist}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{ableist}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{sexist}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{homophobic}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
 </details> 
 
