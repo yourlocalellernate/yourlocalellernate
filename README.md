@@ -112,6 +112,7 @@ ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
 
+<hr>
 ${{\color{#86664E}\normalsize{\textsf{shipping terms…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{adult x minor}}}}$ <br>
