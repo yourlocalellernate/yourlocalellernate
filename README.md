@@ -102,8 +102,9 @@ ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are on
 ${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
+
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
 </details> 
