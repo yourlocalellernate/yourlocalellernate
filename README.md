@@ -133,8 +133,8 @@ ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
 <hr>
 ${{\color{#86664E}\normalsize{\textsf{paraphilia…}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{necrophilia}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{zoophilia}}}}$ <br>
 <hr>
 
 <hr>
