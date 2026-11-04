@@ -115,8 +115,12 @@ ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
 ${{\color{#86664E}\normalsize{\textsf{shipping terms…}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{adult x minor}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{INCEST / ADULT x MINOR}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{PARENT x CHILD}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{SIBLING x SIBLING}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{idk what else.}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{I MEAN WHEN ITS SEXUAL OR ROMANTIC OMFG I FORGOT TO TYPE THIS.}}}}$ <br>
 <hr>
 
 ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
