@@ -93,7 +93,8 @@ ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
 <br>
 
 <div align="left"> <details>
-<summary><picture><img width="130" height="100" alt="image" src="https://github.com/user-attachments/assets/be5d9783-1ee3-4bb5-aa31-528224e61fa7" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/6bc890ab-e91f-4e3a-840b-d64e24cfdab0" />
+</picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
 ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
