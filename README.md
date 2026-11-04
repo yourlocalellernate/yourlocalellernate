@@ -100,7 +100,7 @@ ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are on
 <hr>
 
 <p align="left">
-${{\color{#86664E}\big{\textsf{discriminators}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{discriminators}}}}$ <br>
  
 ${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
@@ -110,8 +110,7 @@ ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{fandoms}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
@@ -120,6 +119,11 @@ ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+
+${{\color{#86664E}\normalsize{\textsf{ect…}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{MAGA}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
 
 
