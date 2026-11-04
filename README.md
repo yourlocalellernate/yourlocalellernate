@@ -121,6 +121,7 @@ ${{\color{#86664E}\tiny{\textsf{SIBLING x SIBLING}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{idk what else.}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{I MEAN WHEN ITS SEXUAL OR ROMANTIC OMFG I FORGOT TO TYPE THIS.}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{PLATONICAL OR FAMILIAL IS OKOK}}}}$ <br>
 <hr>
 
 ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
