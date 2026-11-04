@@ -107,7 +107,7 @@ ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 
 <hr>
 
-${{\color{#86664E}\normalsize{\textsf{translate by yourself…}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{translate it by yourself…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
