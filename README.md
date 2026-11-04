@@ -8,7 +8,7 @@
 
 <p align="center">
 ${{\color{#86664E}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𝒸aleb²⁴⁴⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𓊇}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{taken}}}}$ <br>
 ${{\color{#86664E}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀my⠀⠀⋮⠀⠀intro⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
  
 <br><br>
