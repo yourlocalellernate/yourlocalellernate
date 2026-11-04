@@ -100,12 +100,14 @@ ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are on
 <hr>
 
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{discriminators}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{discriminators…}}}}$ <br>
  
 ${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 
 <hr>
+
+${{\color{#86664E}\normalsize{\textsf{translate by yourself…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
