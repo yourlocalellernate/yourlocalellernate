@@ -1,2 +1,1 @@
-# ellercaleb
-new readme wip
+hi shitlings
