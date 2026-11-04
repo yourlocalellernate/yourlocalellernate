@@ -71,7 +71,7 @@ ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 
 ${{\color{#86664E}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{extrovert}}}}$ <br>
-${{\color{#86664E}\normalsize{\textsf{hii the names is isaac/hasper !! [drooling face]}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
 <div align="right"> <details>
