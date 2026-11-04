@@ -5,9 +5,9 @@
 
 <br><br>
 
-${{\color{#86664E}\tiny{\textsf{text}}}}$
-${{\color{#86664E}\tiny{\textsf{text}}}}$ 
-${{\color{#86664E}\tiny{\textsf{text}}}}$ 
+${{\color{#86664E}\tiny{\textsf{𓊆 text  𓊇}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
  
 <br><br>
 
