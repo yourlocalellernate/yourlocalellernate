@@ -5,6 +5,8 @@
 
 <br><br>
 
+${{\color{#86664E}\tiny{\textsf{text}}}}$
+${{\color{#86664E}\tiny{\textsf{text}}}}$ 
 ${{\color{#86664E}\tiny{\textsf{text}}}}$ 
  
 <br><br>
