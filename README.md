@@ -101,33 +101,37 @@ ${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are on
 
 <p align="left">
 ${{\color{#86664E}\normalsize{\textsf{discriminators…}}}}$ <br>
- 
+ <hr>
 ${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
-
 <hr>
 
 ${{\color{#86664E}\normalsize{\textsf{translate it by yourself…}}}}$ <br>
-
+<hr>
 ${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
+<hr>
 
-${{\color{#86664E}\normalsize{\textsf{fandoms}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{shipping terms…}}}}$ <br>
+<hr>
+${{\color{#86664E}\tiny{\textsf{adult x minor}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+<hr>
 
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
+${{\color{#86664E}\normalsize{\textsf{paraphilia…}}}}$ <br>
+<hr>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+<hr>
 
 ${{\color{#86664E}\normalsize{\textsf{ect…}}}}$ <br>
-
+<hr>
 ${{\color{#86664E}\tiny{\textsf{MAGA}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{wip}}}}$ <br>
-
+${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+<hr>
 
 </details> 
 
