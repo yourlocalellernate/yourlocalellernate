@@ -32,8 +32,8 @@ ${{\color{#C04C21}\tiny{\textsf{ADVISORY: I NEITHER FICTIONKIN NOR YUME CALEB244
 
 <br>
 
-${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{↓}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
 <p align="center">
