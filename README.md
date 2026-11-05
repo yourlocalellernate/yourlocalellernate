@@ -27,6 +27,7 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <p align="left">
  
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friend.}}}}$ <br>
 
@@ -45,18 +46,22 @@ ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
  
 <br>
+
 <p align="left">
 ${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
-<p align="left">
+
 ${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
-<p align="left">
+
 ${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
-<p align="left">
+
 ${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
-<p align="left">
+
 ${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
  
 ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{went through 2-3 traumas}}}}$ <br>
+
 <br>
 
 </details>
