@@ -118,14 +118,16 @@ ${{\color{#86664E}\normalsize{\textsf{paraphilia…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{necrophilia}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{zoophilia}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{pedopilia}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{ect…}}}}$ <br>
 <hr>
 
 <hr>
 ${{\color{#86664E}\normalsize{\textsf{ect…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{MAGA}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
+
+${{\color{#86664E}\tiny{\textsf{rape jokes}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{ect}}}}$ <br>
 <hr>
 
 </details> 
