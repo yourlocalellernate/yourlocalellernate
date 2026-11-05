@@ -18,7 +18,6 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <br>
 
-<p align="left">
 ${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
 
