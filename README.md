@@ -13,7 +13,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <br><br>
 
-<div align="left"> <details>
+<div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary>
  
 <br>
