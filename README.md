@@ -7,9 +7,9 @@
 <br><br>
 
 <p align="center">
-${{\color{#86664E}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀mm12⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𓊇}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{taken}}}}$ <br>
-${{\color{#86664E}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸aleb²⁴⁴⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀mm12⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𓊇}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{taken}}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸aleb²⁴⁴⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
  
 <br><br>
 
@@ -18,45 +18,45 @@ ${{\color{#86664E}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 
 <br><br>
 
-${{\color{#86664E}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
+${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/37899867-e59f-4883-8b08-eb728f27aabc" />
-</picture> ${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
+</picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
 <hr>
 
 <p align="left">
  
-${{\color{#86664E}\tiny{\textsf{english speaker.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{do not make sexual jokes unless youre a friend.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friend.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{im overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{im overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 <br>
 
 <div align="left"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{mental stuff…}}}}$</summary>
+<summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
  
 <br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{rapid mood swing}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{rapid mood swing}}}}$ <br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{emotional shifts}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{emotional shifts}}}}$ <br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{emotional dysregulation}}}}$ <br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{maladaptive perfectionism}}}}$ <br>
 <p align="left">
-${{\color{#86664E}\normalsize{\textsf{overthinking}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
  
-${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 <br>
 
 </details>
@@ -67,23 +67,23 @@ ${{\color{#86664E}\normalsize{\textsf{suspected depression}}}}$ <br>
 <br>
 
 <div align="right"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/72b689fa-7ae8-43a0-a851-ad9ecc9f8f82" /></picture> </summary>
+<summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/72b689fa-7ae8-43a0-a851-ad9ecc9f8f82" /></picture> </summary>
 <hr>
 
 <p align="right">
 
-${{\color{#86664E}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
-${{\color{#86664E}\normalsize{\textsf{extrovert}}}}$ <br>
-${{\color{#86664E}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
-${{\color{#86664E}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
 <div align="right"> <details>
-<summary>${{\color{#86664E}\huge{\textsf{interests}}}}$</summary>
+<summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
 
 <br>
 
 <p align="right">
-${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{wip}}}}$ <br>
  
 <br>
 
@@ -98,30 +98,30 @@ ${{\color{#86664E}\normalsize{\textsf{wip}}}}$ <br>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/fa41f76f-88ee-4b4b-8b24-76e8b0d596a2" /></picture>${{\color{#86664E}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
-${{\color{#86664E}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
+${{\color{#C04C21}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
 
 <p align="left">
 <hr> 
-${{\color{#86664E}\normalsize{\textsf{discriminators…}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{discriminators…}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 <hr>
 
 <hr>
-${{\color{#86664E}\normalsize{\textsf{translate it by yourself…}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{translate it by yourself…}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
 
 <hr>
-${{\color{#86664E}\normalsize{\textsf{ect…}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{ect…}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{MAGA}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, }}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, }}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}$ <br>
 <hr>
 
 </details> 
