@@ -24,7 +24,7 @@ ${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{NOT A CALEB244 FICTIONKIN !!!}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ADVISORY: I NEITHER FICTIONKIN NOR YUME CALEB244 I JUST LIKE HIM LOL}}}}$ <br>
 
 <br>
 
