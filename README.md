@@ -150,5 +150,15 @@ ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
 
 <div align="right"> <details>
 <summary>wip</summary>
+ 
+<img width="1515" height="676" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
+
+<img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
+
+<img width="1922" height="714" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
+
+<img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
+
+<img width="1922" height="1537" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
 </details>
