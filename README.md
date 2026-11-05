@@ -27,7 +27,8 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <p align="left">
  
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friend.}}}}$ <br>
 
@@ -37,8 +38,7 @@ ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
+
 
 <br>
 
@@ -155,6 +155,9 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <p align="left">
 ${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 <br>
 
