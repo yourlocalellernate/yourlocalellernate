@@ -132,20 +132,21 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 
 <br><br>
 
+<br>
+
+<p align="center">
+<a href="https://yourlocalellernate.atabook.org">
+<picture>
+<img width="400" height="180" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
+</picture>
+</a>
+ 
+<br>
+
+<br><br>
+
 <img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
 
 <br><br><br><br>
 
-<div align="right"> <details>
-<summary>wip</summary>
- 
-<img width="1515" height="676" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
-
-
-
-
-
-</details>
-
-<br><br>
 <hr>
