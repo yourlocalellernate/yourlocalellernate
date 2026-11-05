@@ -135,7 +135,7 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <br>
 
 <p align="center">
-<a href="https://yourlocalellernate.atabook.org">
+<a href="https://www.tumblr.com/yourlocalellernate">
 <picture>
 <img width="400" height="180" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
 </picture>
