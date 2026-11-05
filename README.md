@@ -114,20 +114,12 @@ ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
 
 <hr>
-${{\color{#86664E}\normalsize{\textsf{paraphilia…}}}}$ <br>
-
-${{\color{#86664E}\tiny{\textsf{necrophilia}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{zoophilia}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{ect…}}}}$ <br>
-<hr>
-
-<hr>
 ${{\color{#86664E}\normalsize{\textsf{ect…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{MAGA}}}}$ <br>
 
-${{\color{#86664E}\tiny{\textsf{rape jokes}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{ect}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, }}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}$ <br>
 <hr>
 
 </details> 
