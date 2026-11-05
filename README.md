@@ -13,6 +13,23 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <br><br>
 
+<div align="left"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary>
+ 
+<br>
+
+<p align="left">
+${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
+
+<br>
+
+</details>
+
+<br><br>
 <p align="center">
 <img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
@@ -143,31 +160,13 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 
 <br><br>
 
-<br>
-
 <p align="center">
 <a href="https://www.tumblr.com/yourlocalellernate">
 <picture>
 <img width="150" height="80" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
 </picture>
 </a>
- 
-<br><br>
-<div align="left"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{FYI}}}}$</summary>
- 
-<br>
 
-<p align="left">
-${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
-
-<br>
-
-</details>
 <br><br>
 
 <img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
