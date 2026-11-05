@@ -141,8 +141,19 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 </picture>
 </a>
  
+<br><br>
+<div align="left"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{FYI}}}}$</summary>
+ 
 <br>
 
+<p align="left">
+${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
+
+<br>
+
+</details>
 <br><br>
 
 <img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
