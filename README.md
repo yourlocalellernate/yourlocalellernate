@@ -1,5 +1,5 @@
-
-<br>
+<hr>
+<br><br>
 
 <p align="center">
 <img width="1225" height="500" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
@@ -114,25 +114,11 @@ ${{\color{#86664E}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
 
 <hr>
-${{\color{#86664E}\normalsize{\textsf{shipping terms…}}}}$ <br>
-
-${{\color{#86664E}\tiny{\textsf{ADULT x MINOR / PARENT x CHILD}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{SIBLING x SIBLING}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{idk what else.}}}}$ <br>
-
-${{\color{#86664E}\tiny{\textsf{I MEAN WHEN ITS SEXUAL OR ROMANTIC OMFG I FORGOT TO TYPE THIS.}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{PLATONICAL OR FAMILIAL IS OKOK}}}}$ <br>
-<hr>
-
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
-<hr>
-
-<hr>
 ${{\color{#86664E}\normalsize{\textsf{paraphilia…}}}}$ <br>
 
 ${{\color{#86664E}\tiny{\textsf{necrophilia}}}}$ <br>
 ${{\color{#86664E}\tiny{\textsf{zoophilia}}}}$ <br>
+${{\color{#86664E}\tiny{\textsf{pedopilia}}}}$ <br>
 <hr>
 
 <hr>
@@ -158,3 +144,6 @@ ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
 <img width="1922" height="1537" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
 </details>
+
+<br><br>
+<hr>
