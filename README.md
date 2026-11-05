@@ -14,7 +14,7 @@ ${{\color{#86664E}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <br><br>
 
 <p align="center">
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/7596bc5c-0ea1-4e4d-a6a2-63d6650f5e3f" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
 <br><br>
 
@@ -136,8 +136,6 @@ ${{\color{#86664E}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
 
 <img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
-
-<img width="1922" height="1537" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
 </details>
 
