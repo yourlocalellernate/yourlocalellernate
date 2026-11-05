@@ -1,10 +1,8 @@
-can SOMEONE MAKE ME GRAPHICS PLSPLS IMMSO BAD AT MAKING THEM
-
 
 <br>
 
 <p align="center">
-<img width="1225" height="576" alt="image" src="https://github.com/user-attachments/assets/2921c74c-4b4f-4842-b936-f19589eefb2f" />
+<img width="1225" height="500" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
 
 <br><br>
 
@@ -154,8 +152,6 @@ ${{\color{#86664E}\tiny{\textsf{text}}}}$ <br>
 <img width="1515" height="676" alt="image" src="https://github.com/user-attachments/assets/26b734ec-444a-4a5f-89f2-55d3cc8fb037" />
 
 <img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
-
-<img width="1922" height="714" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
 
 <img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
 
