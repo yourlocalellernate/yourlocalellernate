@@ -18,8 +18,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <br>
 
-${{\color{#C04C21}\normalsize{\textsf{i sometimes forget to hop on pony town.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{i always hop on github though.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
