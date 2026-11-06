@@ -53,7 +53,7 @@ ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friend.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friends.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
@@ -67,6 +67,7 @@ ${{\color{#C04C21}\tiny{\textsf{its fine if you dont wanna comf}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{you can just listen, i just want to be heard, and understood too.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{im good at comf depending on the severity of ur venting.}}}}$ <br>
+
 <hr>
 
 <br>
