@@ -118,17 +118,14 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 <summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
 <br>
 <hr>
-${{\color{#C04C21}\normalsize{\textsf{ROBLOX FANDOMS,}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{FANDOMS,}}}}$ <br>
+ 
 ${{\color{#C04C21}\tiny{\textsf{MAYMADNESS2012}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{APRILFOOLS2012}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{VIOLENT CIRUMSTANCES}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{FORSAKEN}}}}$ <br> 
-${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{BLACK CLOVER}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ATLA}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{ATLOK}}}}$ <br>
 <hr>
-${{\color{#C04C21}\normalsize{\textsf{ROBLOX GAMES,}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{CHAOTIC BEAN SIM}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{ride a cart in mpreg itrapped.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{MOVIES,}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{BLACK CLOVER}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{ATLA}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ATLOK}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{shits and piss idfk}}}}$ <br> 
 </details>
 
 <hr>
