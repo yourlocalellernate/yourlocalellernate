@@ -180,7 +180,7 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙊𝙉𝙔𝙏𝙊𝙒𝙉 𝙇𝙊𝘾𝘼𝙏𝙄𝙊𝙉}}}}$</summary>
 <br>
 <hr>
-${{\color{#C04C21}\normalsize{\textsf{SAFE SERVER 1}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟭}}}}$ <br>
  
 ${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
@@ -189,7 +189,7 @@ ${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
 
 <hr>
 
-${{\color{#C04C21}\normalsize{\textsf{SAFE SERVER 1}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟮}}}}$ <br>
  
 ${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
