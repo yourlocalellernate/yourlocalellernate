@@ -181,6 +181,7 @@ ${{\color{#C04C21}\tiny{\textsf{finding a list…}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{sharing about your religion is fine as long you dont force me in.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
 
 
 </details>
