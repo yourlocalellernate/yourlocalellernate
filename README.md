@@ -167,6 +167,16 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 
 <br><br>
 
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
+
+${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable}}}}$ <br>
+
+</details>
+
+<br><br>
+
 <img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
 
 <br><br>
