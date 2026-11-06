@@ -177,8 +177,34 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙊𝙉𝙔𝙏𝙊𝙒𝙉 𝙇𝙊𝘾𝘼𝙏𝙄𝙊𝙉}}}}$</summary>
+<br>
+<hr>
+${{\color{#C04C21}\normalsize{\textsf{SAFE SERVER 1}}}}$ <br>
+ 
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
 
+<hr>
+
+${{\color{#C04C21}\normalsize{\textsf{SAFE SERVER 1}}}}$ <br>
+ 
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{text}}}}$ <br>
+<hr>
+<br>
+</details>
+
+<br><br>
+
+
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
+<br>
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable.}}}}$ <br>
 
@@ -188,8 +214,7 @@ ${{\color{#C04C21}\tiny{\textsf{sharing about your religion is fine as long you 
 
 ${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
-
-
+<br>
 </details>
 
 <br><br>
