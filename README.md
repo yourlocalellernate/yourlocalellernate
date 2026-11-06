@@ -168,11 +168,6 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 <br><br>
 
 <img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
-
-<br><br>
-
-<p align="center">
-<img width="196" height="200" alt="image" src="https://github.com/user-attachments/assets/2573bd8f-9782-45ad-937e-3cb413aa52e8" />
  
 <br><br>
 
