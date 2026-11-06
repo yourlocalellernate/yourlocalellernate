@@ -171,6 +171,9 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
 
 <br><br>
 
+<img width="196" height="200" alt="image" src="https://github.com/user-attachments/assets/2573bd8f-9782-45ad-937e-3cb413aa52e8" />
+
+
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 
