@@ -108,9 +108,13 @@ ${{\color{#C04C21}\tiny{\textsf{went through 2-3 traumas}}}}$ <br>
 <p align="right">
 
 ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
+
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
+
 
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
