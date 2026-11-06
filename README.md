@@ -176,6 +176,8 @@ ${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}
  
 <br><br>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eom75drrelz6g7btz64vg363ou&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=ffffff&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏 𝘼𝙍𝙀𝘼}}}}$</summary>
 <br>
