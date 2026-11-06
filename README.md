@@ -74,7 +74,6 @@ ${{\color{#C04C21}\tiny{\textsf{im a lil good at comforting}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
- 
 <br>
 
 <p align="left">
@@ -93,13 +92,11 @@ ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{went through 2-3 traumas}}}}$ <br>
 
 <br>
-
 </details>
-
 <hr>
 </details>
 
-<br>
+<br><br>
 
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/72b689fa-7ae8-43a0-a851-ad9ecc9f8f82" /></picture> </summary>
@@ -119,19 +116,16 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
 
-<br>
-
-<p align="right">
-${{\color{#C04C21}\normalsize{\textsf{wip}}}}$ <br>
- 
-<br>
-
+${{\color{#C04C21}\normalsize{\textsf{ROBLOX,}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{MAYMADNESS2012}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{APRILFOOLS2012}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{VIOLENT CIRUMSTANCES}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{SEWH}}}}$ <br> 
+${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{FORSAKEN}}}}$ <br>
 </details>
 
 <hr>
 </details>
 
-<br>
+<br><br>
 
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/fa41f76f-88ee-4b4b-8b24-76e8b0d596a2" /></picture>${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
