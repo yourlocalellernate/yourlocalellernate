@@ -116,10 +116,14 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
 
-${{\color{#C04C21}\normalsize{\textsf{ROBLOX,}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{ROBLOX FANDOMS,}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{MAYMADNESS2012}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{APRILFOOLS2012}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{VIOLENT CIRUMSTANCES}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{SEWH}}}}$ <br> 
-${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{FORSAKEN}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{VIOLENT CIRUMSTANCES}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{FORSAKEN}}}}$ <br> 
+${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{ROBLOX GAMES,}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{CHAOTIC BEAN SIM}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{ride a cart in mpreg itrapped.}}}}$ <br>
+
 </details>
 
 <hr>
