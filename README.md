@@ -40,7 +40,8 @@ ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
 
-<div align="left"> ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
+<div align="left"> 
+${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/37899867-e59f-4883-8b08-eb728f27aabc" />
 </picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
