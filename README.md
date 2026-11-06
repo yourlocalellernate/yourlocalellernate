@@ -23,7 +23,7 @@ ${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{ADVISORY: I NEITHER FICTIONKIN NOR YUME CALEB244 I JUST LIKE HIM LOL}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ADVISORY: I NEITHER FICTIONKIN NOR YUME CALEB244 I JUST LIKE HIM}}}}$ <br>
 
 <br>
 
@@ -50,6 +50,9 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <p align="left">
  
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i mostly interact first.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
