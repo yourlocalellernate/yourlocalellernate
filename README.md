@@ -66,7 +66,7 @@ ${{\color{#C04C21}\tiny{\textsf{if i ever vent to you}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{its fine if you dont wanna comf}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{you can just listen, i just want to be heard, and understood too.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{im good at comf depending on the severity of ur venting.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{im a lil good at comforting}}}}$ <br>
 
 <hr>
 
