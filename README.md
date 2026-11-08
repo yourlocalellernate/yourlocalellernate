@@ -218,16 +218,16 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 
 <br><br>
 
-
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to trauma.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to smth in my past.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{sharing about your religion is fine as long you dont force me in.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do}}}}$ <br>
+
 
 ${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
