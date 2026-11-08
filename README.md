@@ -23,8 +23,8 @@ ${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{ADVISORY: I NEITHER FICTIONKIN NOR YUME CALEB244 I JUST LIKE HIM}}}}$ <br>
-
+${{\color{#C04C21}\tiny{\textsf{i do not support caleb244s actions at all}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i am aware hes a bad person.}}}}$ <br>
 <br>
 
 </details>
