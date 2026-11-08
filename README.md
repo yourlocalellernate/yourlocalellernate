@@ -113,6 +113,8 @@ ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
+${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{male or gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
@@ -121,12 +123,25 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 <summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
 <br>
 <hr>
-${{\color{#C04C21}\normalsize{\textsf{FANDOMS,}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{ships,}}}}$ <br>
  
-${{\color{#C04C21}\tiny{\textsf{MAYMADNESS2012}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{APRILFOOLS2012}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{VIOLENT CIRUMSTANCES}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{FORSAKEN}}}}$ <br> 
-${{\color{#C04C21}\tiny{\textsf{WARRIOR CATS}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{BLACK CLOVER}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ATLA}}}}$ <br> ${{\color{#C04C21}\tiny{\textsf{ATLOK}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ellercaleb}}}}$ <br> 
+${{\color{#C04C21}\tiny{\textsf{ellertrapped}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ellercaden}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{vilinate}}}}$ <br> 
+
+${{\color{#C04C21}\tiny{\textsf{calebtrapped}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{vilicaleb}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{kirbycaleb/kirbychoka}}}}$ <br> 
+${{\color{#C04C21}\tiny{\textsf{244debt}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{iburning x caleb}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{lonelytrapped}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ichance}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{vilitrapped}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ichance}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{i like these ships and the rest of the mm12 ships.}}}}$ <br>
 <hr>
 
 </details>
