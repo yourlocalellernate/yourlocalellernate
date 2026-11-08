@@ -224,10 +224,13 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to smth in my past.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info is fine.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL. since i am taken}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
