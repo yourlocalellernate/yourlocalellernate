@@ -224,6 +224,7 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable.}}}}$ <br>
 
+
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info is fine.}}}}$ <br>
