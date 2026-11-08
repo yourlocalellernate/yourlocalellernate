@@ -221,9 +221,7 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
-${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{it makes me really uncomfortable.}}}}$ <br>
-
+${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim. it makes me sometimes uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
 
