@@ -120,7 +120,7 @@ ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{male or gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{ellernate fictionkin, doubles are very welcome.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
