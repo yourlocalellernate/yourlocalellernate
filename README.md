@@ -138,7 +138,7 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 </details>
 
 <br><br>
-
+<!-- dni list -->
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/fa41f76f-88ee-4b4b-8b24-76e8b0d596a2" /></picture>${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
@@ -162,7 +162,7 @@ ${{\color{#C04C21}\tiny{\textsf{fucking dni caleb244 dick riders. (giggling but 
 <hr>
 
 </details> 
-
+<!-- dni list -->
 <br><br>
 
 <img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
