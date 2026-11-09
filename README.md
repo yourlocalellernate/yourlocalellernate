@@ -172,26 +172,18 @@ ${{\color{#C04C21}\huge{\textsf{dni if you have interest, support, or you are on
 
 <p align="left">
 <hr> 
-${{\color{#C04C21}\normalsize{\textsf{discriminators…}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
 <hr>
-
-<hr>
-${{\color{#C04C21}\normalsize{\textsf{translate it by yourself…}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 <hr>
-
-<hr>
-${{\color{#C04C21}\normalsize{\textsf{ect…}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, }}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{discriminatory, necrophilia, zoophilia, ect.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{fucking dni caleb244 dick riders. (giggling but its srs.)}}}}$ <br>
+
 <hr>
 
 </details> 
