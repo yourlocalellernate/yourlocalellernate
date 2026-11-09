@@ -59,18 +59,21 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 
 ${{\color{#C04C21}\tiny{\textsf{the text are sometimes really long,}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{it will look like its cutoff so scroll on the text}}}}$ <br>
- 
+
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{iwcare some times… i dont feel loved enough due to overthinking.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friends.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
 
 <hr>
 ${{\color{#C04C21}\tiny{\textsf{if i ever vent to you}}}}$ <br>
