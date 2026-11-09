@@ -66,6 +66,8 @@ ${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though
 
 ${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}}$ <br>
 
+${{\color{#C04C21}\tiny{\textsf{not dry at all, i just dont show emotions in text a lot.}}}}$ <br>
+
 ${{\color{#C04C21}\tiny{\textsf{iwcare some times… i dont feel loved enough due to overthinking.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
