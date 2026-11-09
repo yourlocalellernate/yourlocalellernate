@@ -56,13 +56,15 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <hr>
 
 <p align="left">
+
+${{\color{#C04C21}\tiny{\textsf{the text are sometimes really long,}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{it will look like its cutoff so scroll on the text}}}}$ <br>
  
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{i mostly interact first.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it. though i sometimes dont understand so i may ask for translation.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{if you use typing quirks im fine with it.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{though i sometimes dont understand so i may ask for translation.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friends.}}}}$ <br>
 
@@ -76,12 +78,8 @@ ${{\color{#C04C21}\tiny{\textsf{its fine if you are mid or bad at comforting}}}}
 ${{\color{#C04C21}\tiny{\textsf{you can just listen, i just want to be heard, and understood too.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{though comforting me is appreciated.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{im a lil good at comforting}}}}$ <br>
-
 <hr>
-
 <br>
-
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{mental stuff…}}}}$</summary>
 <br>
