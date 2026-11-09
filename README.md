@@ -136,6 +136,12 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
 
+${{\color{#C04C21}\big{\textsf{sexualities}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{gay (mlm)}}}}$
+${{\color{#C04C21}\normalsize{\textsf{androsexual}}}}$
+${{\color{#C04C21}\normalsize{\textsf{transgender}}}}$
+${{\color{#C04C21}\normalsize{\textsf{bicycle}}}}$
+
 <hr>
 </details>
 
