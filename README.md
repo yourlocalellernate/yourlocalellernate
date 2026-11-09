@@ -127,35 +127,8 @@ ${{\color{#C04C21}\normalsize{\textsf{ellernate fictionkin, doubles are very wel
 ${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
-
-<div align="right"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{interests}}}}$</summary>
-<br>
-<hr>
-${{\color{#C04C21}\normalsize{\textsf{ships,}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{ellercaleb}}}}$ <br> 
-${{\color{#C04C21}\tiny{\textsf{ellertrapped}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ellercaden}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{vilinate}}}}$ <br> 
-
-${{\color{#C04C21}\tiny{\textsf{calebtrapped}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{vilicaleb}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{kirbycaleb/kirbychoka}}}}$ <br> 
-${{\color{#C04C21}\tiny{\textsf{244debt}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{iburning x caleb}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{lonelytrapped}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ichance}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{vilitrapped}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ichance}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{frozendebt}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ichance}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{i like these ships and the rest of the mm12 ships.}}}}$ <br>
-<hr>
-
-</details>
+${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
 
 <hr>
 </details>
