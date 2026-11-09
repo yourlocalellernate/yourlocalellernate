@@ -118,9 +118,10 @@ ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
+
 ${{\color{#C04C21}\normalsize{\textsf{male or gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{ellernate fictionkin, doubles are very welcome.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
+
 ${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
@@ -232,6 +233,8 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$
 ${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info is fine.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL. since i am taken}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
 
