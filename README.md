@@ -27,17 +27,16 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
-
+<br>
 ${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not support caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a bad person.}}}}$ <br>
 <br>
-
 </details>
 
-<br>
+<br><br>
 
 ${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
@@ -180,7 +179,7 @@ ${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{fucking dni caleb244 dick riders. (giggling but its srs.)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{fucking dni caleb244 dick riders. (giggling but im srs.)}}}}$ <br>
 
 <hr>
 
@@ -224,11 +223,11 @@ ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can re
 
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info is fine.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info about it is fine.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
 
