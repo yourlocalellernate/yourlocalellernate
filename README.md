@@ -73,7 +73,9 @@ ${{\color{#C04C21}\tiny{\textsf{show a bit of affection some times, i dont feel 
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not make sexual jokes unless youre a friends.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i rarely make nsfw jokes.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
