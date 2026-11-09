@@ -11,7 +11,7 @@
 
 <p align="center">
 ${{\color{#C04C21}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𝙈𝘼𝙔𝙈𝘼𝘿𝙉𝙀𝙎𝙎𝟮𝟬𝟭𝟮⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𓊇}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{taken}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not call me ipineapple /srs}}}}$ <br>
 ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸aleb²⁴⁴⠀⠀⠀⠀⌣⌣⠀⠀⠀⿻ }}}}$ <br>
 
 <br>
