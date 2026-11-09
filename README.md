@@ -70,8 +70,6 @@ ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people 
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
-
 <hr>
 ${{\color{#C04C21}\tiny{\textsf{if i ever vent to you}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{its fine if you are mid or bad at comforting}}}}$ <br>
@@ -228,7 +226,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$
 
 ${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info is fine.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL. since i am taken}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
