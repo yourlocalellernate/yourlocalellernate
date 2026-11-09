@@ -1,7 +1,8 @@
+
+<br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=19&duration=2500&pause=1000&color=D15D31&width=435&lines=i+got+you+on+my+radar%2C+soon+youre+gonna+be+with+me!" alt="Typing SVG" /></a>
- 
-<br><br>
+<br>
 
 <p align="center">
 <img width="1225" height="500" alt="image" src="https://github.com/user-attachments/assets/639b61d3-355f-4967-89a8-36bc06d1daca" />
