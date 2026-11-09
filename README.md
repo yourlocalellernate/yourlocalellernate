@@ -69,7 +69,7 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}
 
 ${{\color{#C04C21}\tiny{\textsf{not dry at all, i just dont show emotions in text a lot.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{iwcare some times… i dont feel loved enough due to overthinking.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{show a bit of affection some times, i dont feel loved enough due to overthinking.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
 
