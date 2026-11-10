@@ -1,7 +1,5 @@
 
 
-<!-- text -->
-
 <br>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Redaction+50&size=19&duration=2500&pause=1000&color=D15D31&width=435&lines=i+got+you+on+my+radar%2C+soon+youre+gonna+be+with+me!" alt="Typing SVG" /></a>
@@ -265,4 +263,4 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <hr>
 
-https://komarev.com/ghpvc/?username=vilicalebb&label=tuna&color=c48326&style=flat
+![](https://komarev.com/ghpvc/?username=vilicalebb&label=tuna&color=c48326&style=flat)
