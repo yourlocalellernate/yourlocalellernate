@@ -75,8 +75,6 @@ ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who
 
 ${{\color{#C04C21}\tiny{\textsf{i rarely make nsfw jokes.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
 
@@ -215,6 +213,8 @@ ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can re
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info about it is fine.}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
