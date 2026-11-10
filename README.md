@@ -265,4 +265,4 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <hr>
 
-https://komarev.com/ghpvc/?username=vilicalebb&label=tuna&color=f8af92&style=flat
+https://komarev.com/ghpvc/?username=vilicalebb&label=tuna&color=c48326&style=flat
