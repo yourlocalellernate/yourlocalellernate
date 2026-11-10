@@ -1,6 +1,4 @@
 
-welcome to my channel, its nice to see you here. i like to tell stories, so please lend me your ear. id like to introduce myself, so please dont click away. if you wanna know who I am, this is what id say, hey my name is Leo
-and this is who I am..
 <!-- text -->
 
 <br>
