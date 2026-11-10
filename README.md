@@ -168,7 +168,8 @@ ${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$ <br>
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
 ${{\color{#C04C21}\tiny{\textsf{like how could you fucking support a trumpie and also a transphobe.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{and besides he is super messed up.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{did we forgot the victims he doxxed?? he ruined kcs life.}}}}$ <br>
@@ -178,6 +179,9 @@ ${{\color{#C04C21}\tiny{\textsf{he also argued with minors and likely tricking y
 ${{\color{#C04C21}\tiny{\textsf{pls do not interact with him again youre boosting his ego}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{idgaf that your dada is just “29teen” uwuu?!?🥺🥺}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud that i dont support his doings.}}}}$ <br>
+</details>
+<br>
+
 
 <hr>
 
