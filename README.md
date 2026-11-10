@@ -46,7 +46,7 @@ ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
 <p align="center">
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
 <br><br>
 
@@ -190,7 +190,7 @@ ${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud that i do
 <!-- dni list -->
 <br><br>
 
-<img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
  
 <br><br>
 
@@ -243,7 +243,7 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <br><br>
 
-<img width="1922" height="676" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/cc255518-2911-4934-9da5-5741a8c968ee" />
 
 <br><br>
 
@@ -258,7 +258,7 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <br><br>
 
-<img width="1922" height="713" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
 
 <br><br><br><br>
 
