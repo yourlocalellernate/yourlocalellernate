@@ -168,7 +168,9 @@ ${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{fucking dni caleb244 dick riders. (giggling but im srs.)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders. (giggling but im srs.)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{like how could you fucking support a trumpie and also a transphobe.)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i do not give A shit that your dada is just “29teen”?!?🥺🥺)}}}}$ <br>
 
 <hr>
 
