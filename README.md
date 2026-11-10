@@ -170,7 +170,10 @@ ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abus
 
 ${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders. (giggling but im srs.)}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{like how could you fucking support a trumpie and also a transphobe.)}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i do not give A shit that your dada is just “29teen”?!?🥺🥺)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{and besides he is super messed up.)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{did we forgot the victims he doxxed??}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{idgaf that your dada is just “29teen” uwuu?!?🥺🥺)}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud that i dont support his doings.}}}}$ <br>
 
 <hr>
 
