@@ -27,6 +27,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary>
  
 <br>
+
 ${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{without my perms.}}}}$ <br>
 
@@ -35,6 +36,7 @@ ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
+
 <br>
 </details>
 
@@ -145,11 +147,9 @@ ${{\color{#C04C21}\huge{\textsf{dni if you have interest, support, or you are on
 
 ${{\color{#C04C21}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
-
 ${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{MAGA}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{maga supporters / trumpies}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
 
 <div align="left"> <details>
