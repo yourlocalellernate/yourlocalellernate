@@ -212,6 +212,7 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
+ 
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim. it makes me sometimes uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
@@ -222,7 +223,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and
 
 ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not flirt with me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
 
