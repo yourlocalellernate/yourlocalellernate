@@ -79,10 +79,6 @@ ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people 
 
 
 <hr>
-${{\color{#C04C21}\tiny{\textsf{if i ever vent to you}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{its fine if you are mid or bad at comforting}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{you can just listen, i just want to be heard, and understood too.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{though comforting me is appreciated.}}}}$ <br>
 
 <hr>
 <br>
@@ -124,11 +120,6 @@ ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{sapphire}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{aster}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{vine}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{mercury}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{find out what is this do not ask.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{male or gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{ellernate fictionkin, doubles are very welcome.}}}}$ <br>
