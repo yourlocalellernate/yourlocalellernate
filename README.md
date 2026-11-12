@@ -54,12 +54,8 @@ ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/37899867-e59f-4883-8b08-eb728f27aabc" />
 </picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
-<hr>
-
+<Hr>
 <p align="left">
-
-${{\color{#C04C21}\tiny{\textsf{the text are sometimes really long,}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{it will look like its cutoff so scroll on the text}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{english speaker.}}}}$ <br>
 
@@ -73,12 +69,9 @@ ${{\color{#C04C21}\tiny{\textsf{show a bit of affection some times, i dont feel 
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{i rarely make nsfw jokes.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{nsfw jokes arent really the kind i do.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
-
-
-<hr>
 
 <hr>
 <br>
@@ -99,7 +92,7 @@ ${{\color{#C04C21}\normalsize{\textsf{overthinking}}}}$ <br>
  
 ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{went through 2-3 traumas}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 
 <br>
 </details>
@@ -209,16 +202,17 @@ ${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
 
 <br><br>
 
-<div align="center"> <details>
+<div align="center"> 
+<details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝘽𝙊𝙐𝙉𝘿𝘼𝙍𝙄𝙀𝙎}}}}$</summary>
 <br>
  
 ${{\color{#C04C21}\tiny{\textsf{do not use any slur around me even if you can reclaim. it makes me sometimes uncomfortable.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{im ok with faggot, ect.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to my trauma.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not call me “dear” due to trauma.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{do not force me in your religion, sharing info about it is fine.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{do not force your religion up my throat, sharing info about it is fine.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not make nsfw jokes unless youre a friend and know when to stop.}}}}$ <br>
 
@@ -230,6 +224,7 @@ ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine i
 
 ${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
+
 <br>
 </details>
 
