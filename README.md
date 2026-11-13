@@ -46,10 +46,19 @@ ${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬�
 ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
+
+<img width="1922" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
+
+<br><br>
+
+text
+
+<br><br>
+
 <p align="center">
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/f17398e2-fbe1-4074-a61f-689dd3671e81" />
 
-<br><br>
+<br>
 
 <p align="left">
 ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
@@ -173,7 +182,7 @@ ${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud knowing i
 <!-- dni list -->
 <br><br>
 
-<img width="1922" alt="image" src="https://github.com/user-attachments/assets/f8ee21fc-fbac-4024-a3fa-fd6e46858c04" />
+
  
 <br><br>
 
