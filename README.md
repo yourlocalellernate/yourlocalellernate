@@ -75,9 +75,12 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}
 ${{\color{#C04C21}\tiny{\textsf{not dry at all, i just dont show emotions in text a lot.}}}}$ <br>
 
 <div align="left"> <details>
-<summary>${{\color{#C04C21}\tiny{\textsf{pls show a bit of affection to me sometimes}}}}$</summary> 
-${{\color{#C04C21}\tiny{\textsf{i feel very upset being ignored.}}}}$
-${{\color{#C04C21}\tiny{\textsf{and i dont really feel loved enough}}}}$
+<summary>${{\color{#C04C21}\tiny{\textsf{please show a bit of affection to me sometimes}}}}$</summary> 
+${{\color{#C04C21}\tiny{\textsf{i feel very upset being ignored.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i overthink a lot that im really annoying.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{besides, my parents never gave me enough love}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i can say they pretty for care my cousins more than me.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{this effected me a lot sobs.}}}}$ <br>
 </details>
 
 ${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
@@ -107,9 +110,15 @@ ${{\color{#C04C21}\normalsize{\textsf{suspected depression}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 
-<br>
+<div align="left"> <details>
+<summary>${{\color{#C04C21}\tiny{\textsf{please check up on me daily if you can.}}}}$</summary>
+${{\color{#C04C21}\tiny{\textsf{i have derealization episodes 3-4 times in a week or smth.}}}}$
+${{\color{#C04C21}\tiny{\textsf{and i overthink a lot daily so uh i curl up and cry in my bed alone.}}}}$
 </details>
-<hr>
+
+<br>
+
+</details>
 </details>
 
 <br><br>
