@@ -24,8 +24,7 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <br><br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary>
- 
+<summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
 <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
@@ -36,8 +35,6 @@ ${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
-
-<br>
 </details>
 
 <br><br>
@@ -113,6 +110,7 @@ ${{\color{#C04C21}\tiny{\textsf{2-3 traumas}}}}$ <br>
 
 <br><br>
 
+<!-- about me -->
 <div align="right"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{ 𝙄𝙉𝙁𝙊 𓎢𓎠𓎟𓎠𓎡 }}}}$<picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/3df88dfb-7597-4698-a74e-8c399dc6b600" /></picture> </summary>
 <hr>
@@ -135,16 +133,12 @@ ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from mentioning one.}}}}$ <br>
 
-${{\color{#C04C21}\large{\textsf{sexualities}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{gay (mlm)}}}}$
-${{\color{#C04C21}\normalsize{\textsf{androsexual}}}}$
-${{\color{#C04C21}\normalsize{\textsf{transgender}}}}$
-${{\color{#C04C21}\normalsize{\textsf{bicycle}}}}$
-
 <hr>
 </details>
+<!-- about me -->
 
 <br><br>
+
 <!-- dni list -->
 <div align="left"> <details>
 <summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/08d84659-df86-4a7c-a829-5d1ed1ee014a" />
