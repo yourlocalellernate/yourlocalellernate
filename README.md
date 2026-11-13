@@ -65,8 +65,7 @@ ${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀‎text⠀⠀
 <p align="left">
 ${{\color{#C04C21}\tiny{\textsf{art from my friend pomero on tt/pin}}}}$ 
 <div align="left"> <details>
-<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/37899867-e59f-4883-8b08-eb728f27aabc" />
-</picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/63a22227-a914-4e98-871b-9d176d938ae4" /></picture> ${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘽𝙔𝙄}}}}$</summary>
 <Hr>
 <p align="left">
 
