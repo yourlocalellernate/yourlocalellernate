@@ -260,6 +260,6 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <br><br><br><br>
 
-<hr>
+<img width="1899" alt="image" src="https://github.com/user-attachments/assets/5007689f-2cc0-48d7-a7c7-ba08a4ca909b" />
 
 ![](https://komarev.com/ghpvc/?username=vilicalebb&label=1+view+=+1+free+tuna+for+me.&color=c48326&style=flat)
