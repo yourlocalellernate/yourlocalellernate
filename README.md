@@ -172,14 +172,15 @@ ${{\color{#C04C21}\tiny{\textsf{if you dont like one, lmk i will be careful from
 ${{\color{#C04C21}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
 
 <p align="left">
-<hr> 
+${{\color{#C04C21}\tiny{\textsf{im not sure}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{T.R.A.S.H.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{AGEIST, ECT.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{maga supporters / trumpies}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{AGEISTS}}}}$ <br>
+
+${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
