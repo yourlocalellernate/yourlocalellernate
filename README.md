@@ -37,6 +37,29 @@ ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
 </details>
 
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏 𝘼𝙍𝙀𝘼}}}}$</summary>
+<br>
+<hr>
+${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟭}}}}$ <br>
+ 
+${{\color{#C04C21}\tiny{\textsf{bakery outside on the right.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{inside bakery (only goes in when someone tells me to. }}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{near spawn at left side}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{islands (when building or other…)}}}}$ <br>
+
+<hr>
+
+${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟮}}}}$ <br>
+ 
+${{\color{#C04C21}\tiny{\textsf{near spawn.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{outside/inside bakery.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{pond near bakery.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
+<hr>
+<br>
+</details>
+
 <br><br>
 
 ${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}}$ <br>
@@ -172,31 +195,6 @@ ${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud knowing i
 
 </details> 
 <!-- dni list -->
-
-<br><br>
-
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏 𝘼𝙍𝙀𝘼}}}}$</summary>
-<br>
-<hr>
-${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟭}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{bakery outside on the right.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{inside bakery (only goes in when someone tells me to. }}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{near spawn at left side}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{islands (when building or other…)}}}}$ <br>
-
-<hr>
-
-${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟮}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{near spawn.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{outside/inside bakery.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{pond near bakery.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
-<hr>
-<br>
-</details>
 
 <br><br>
 
