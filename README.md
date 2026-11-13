@@ -37,6 +37,8 @@ ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
 </details>
 
+<br>
+
 <div align="center"> <details>
 <summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏 𝘼𝙍𝙀𝘼}}}}$</summary>
 <br>
