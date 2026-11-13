@@ -27,11 +27,11 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
 <summary>${{\color{#C04C21}\huge{\textsf{𝙁𝙔𝙄}}}}$</summary> 
 <br>
 
-${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme.}}}}$ <br>
-${{\color{#C04C21}\normalsize{\textsf{without my perms.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{do not take inspo on my readme, without my perms.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{@yourlocalellernate on every social}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{discord, pinterest, tiktok, tumblr.}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{free to ask for my socials.}}}}$ <br>
+
+${{\color{#C04C21}\normalsize{\textsf{pls bmf if you like mm12}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i do not condone caleb244s actions at all}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}}}$ <br>
