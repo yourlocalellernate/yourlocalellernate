@@ -74,11 +74,15 @@ ${{\color{#C04C21}\tiny{\textsf{i always interact first, though not all time.}}}
 
 ${{\color{#C04C21}\tiny{\textsf{not dry at all, i just dont show emotions in text a lot.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{show a bit of affection some times, i dont feel loved enough due to overthinking.}}}}$ <br>
+<div align="center"> <details>
+<summary>${{\color{#C04C21}\tiny{\textsf{pls show a bit of affection to me sometimes}}}}$</summary> 
+${{\color{#C04C21}\tiny{\textsf{i feel very upset being ignored.}}}}$
+${{\color{#C04C21}\tiny{\textsf{and i dont really feel loved enough}}}}$
+</details>
 
-${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me cause it overwhelms me a little.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{please be patient with me, i dont like those who rush me.}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{nsfw jokes arent really the kind i do.}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{i do not really make nsfw jokes.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{overwelmed sometimes when i talk to many people at the same time.}}}}$ <br>
 
