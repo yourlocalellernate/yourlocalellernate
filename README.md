@@ -39,26 +39,6 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 
 <br>
 
-<div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏}}}}$</summary>
-<br>
-
-<summary>${{\color{#C04C21}\huge{\textsf{area}}}}$</summary>
-<br>
-
-${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟭}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{i always go to the right side outside bakery}}}}$ <br>
-text
-
-<br>
-</details>
-
-<br>
-</details>
-
-<br><br>
-
 ${{\color{#C04C21}\tiny{\textsf{𝙢𝙤𝙧𝙚 𝙞𝙣𝙛𝙤 𝙙𝙤𝙬𝙣 𝙝𝙚𝙧𝙚 !}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
