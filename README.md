@@ -121,13 +121,12 @@ ${{\color{#C04C21}\normalsize{\textsf{in a relationship with 3}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{extrovert}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$ <br>
-
 ${{\color{#C04C21}\normalsize{\textsf{virgo.}}}}$ <br>
 
 ${{\color{#C04C21}\normalsize{\textsf{male or gender neutral terms only.}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{ellernate fictionkin, doubles are very welcome.}}}}$ <br>
 
-${{\color{#C04C21}\normalsize{\textsf{hii the names is isaac or leo [drooling face]}}}}$ <br>
+${{\color{#C04C21}\normalsize{\textsf{hello hi the names is isaac or leo [drooling face]}}}}$ <br>
 ${{\color{#C04C21}\normalsize{\textsf{i like being called a good boy jokingly.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{i like every ship in mm12.}}}}$ <br>
@@ -171,15 +170,9 @@ ${{\color{#C04C21}\tiny{\textsf{im GLAD i wake up in the morning proud knowing i
 </details>
 <br>
 
-
-<hr>
-
 </details> 
 <!-- dni list -->
-<br><br>
 
-
- 
 <br><br>
 
 <div align="center"> <details>
