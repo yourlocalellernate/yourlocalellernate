@@ -53,7 +53,7 @@ ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 ${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀text⠀⠀― :: ノ `  }}}}$ <br>
 ${{\color{#C04C21}\Huge{\textsf{◠⠀⠀⠀⠀‎text⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
-${{\color{#C04C21}\Huge{\textsf{𓊆⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀text⠀⠀𓎢𓎠𓎟𓎠𓎡⠀⠀𓊇}}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀‎text⠀⠀⠀⠀⠀⠀ ⠀ 𓂅}}}}$ <br>
 
 <br><br>
 
