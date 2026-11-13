@@ -51,9 +51,9 @@ ${{\color{#C04C21}\tiny{\textsf{↓}}}}$ <br>
 
 <br><br>
 
-${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀text⠀⠀― :: ノ `  }}}}$ <br>
-${{\color{#C04C21}\Huge{\textsf{◠⠀⠀⠀⠀‎text⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
-${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀‎text⠀⠀⠀⠀⠀⠀ ⠀ 𓂅}}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{𓎢𓎠𓎟𓎠𓎡⠀⠀poly taken⠀⠀― :: ノ `  }}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{◠⠀⠀⠀⠀‎16-18+ iwc⠀⠀⠀⠀︵⠀⠀⠀⠀𓎢𓎠𓎟𓎠𓎡}}}}$ <br>
+${{\color{#C04C21}\Huge{\textsf{⠀⠀⠀⠀⠀⠀⠀⠀⠀  ⠀⠀‎⠀⠀⠀⠀⠀⠀ ⠀ 𓂅}}}}$ <br>
 
 <br><br>
 
