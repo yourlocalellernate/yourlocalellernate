@@ -19,7 +19,6 @@ ${{\color{#C04C21}\Huge{\textsf{゛ ⸝⸝⠀⠀⠀⠀⠀gg.⠀⠀⋮⠀⠀𝒸a
  
 <p align="center">
 <a href="https://hits.sh/github.com/yourlocalellernate/hits/"><img alt="Hits" src="https://hits.sh/github.com/yourlocalellernate/hits.svg?style=plastic&label=killing%20vilichud&color=bf4a21&labelColor=c48326"/></a>
-
 <a href="https://visitorbadge.io//status?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fyourlocalellernate&label=stealing%20robux&labelColor=%23c48326&countColor=%23bf4a21&style=plastic&labelStyle=lower" /></a>
  
 <br><br>
