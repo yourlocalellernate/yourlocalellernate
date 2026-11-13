@@ -147,7 +147,8 @@ ${{\color{#C04C21}\normalsize{\textsf{bicycle}}}}$
 <br><br>
 <!-- dni list -->
 <div align="left"> <details>
-<summary><picture>image</picture>${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
+<summary><picture><img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/08d84659-df86-4a7c-a829-5d1ed1ee014a" />
+</picture>${{\color{#C04C21}\huge{\textsf{ 𓎢𓎠𓎟𓎠𓎡 𝘿𝙉𝙄}}}}$</summary>
 <br>
 
 ${{\color{#C04C21}\huge{\textsf{dni if you have interest, support, or you are one of these.}}}}$ <br>
