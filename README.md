@@ -258,7 +258,7 @@ ${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose t
 
 <img width="1922" alt="image" src="https://github.com/user-attachments/assets/2c6623ca-43a3-4f92-af03-148a2449c931" />
 
-<br><br><br><br>
+<br><br>
 
 <img width="1899" alt="image" src="https://github.com/user-attachments/assets/5007689f-2cc0-48d7-a7c7-ba08a4ca909b" />
 
