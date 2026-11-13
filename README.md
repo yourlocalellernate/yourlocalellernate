@@ -178,8 +178,11 @@ ${{\color{#C04C21}\tiny{\textsf{maga supporters / trumpies}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{dni if you make jokes about rape, sa, child abuse, ect.}}}}$ <br>
 ${{\color{#C04C21}\tiny{\textsf{AGEISTS}}}}$ <br>
 
-${{\color{#C04C21}\tiny{\textsf{ロリ / ロリコン}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{ショタ / ショタコン}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{lolicon}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{shotacon}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{map}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{zoo}}}}$ <br>
+${{\color{#C04C21}\tiny{\textsf{incest}}}}$ <br>
 
 <div align="left"> <details>
 <summary>${{\color{#C04C21}\tiny{\textsf{dni caleb244 dick riders, e kittens or whtevr}}}}$</summary>
@@ -220,9 +223,6 @@ ${{\color{#C04C21}\tiny{\textsf{do not flirt with me at ALL unless partner.}}}}$
 ${{\color{#C04C21}\tiny{\textsf{do not treat me like im your f/o, im taken and it makes me uncomfortable.}}}}$ <br>
 
 ${{\color{#C04C21}\tiny{\textsf{do not spam my dms if you are a friend of mine in dc.}}}}$ <br>
-
-${{\color{#C04C21}\tiny{\textsf{keep in mind if you break one or more}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{i will be uncomfortable talking to you or lose trust in you}}}}$ <br>
 
 <br>
 </details>
