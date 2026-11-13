@@ -40,25 +40,20 @@ ${{\color{#C04C21}\tiny{\textsf{i am aware hes a fuckass messed up bad person.}}
 <br>
 
 <div align="center"> <details>
-<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏 𝘼𝙍𝙀𝘼}}}}$</summary>
+<summary>${{\color{#C04C21}\huge{\textsf{𝙋𝙏}}}}$</summary>
 <br>
-<hr>
+
+<summary>${{\color{#C04C21}\huge{\textsf{area}}}}$</summary>
+<br>
+
 ${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟭}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{bakery outside on the right.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{inside bakery (only goes in when someone tells me to. }}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{near spawn at left side}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{islands (when building or other…)}}}}$ <br>
 
-<hr>
+${{\color{#C04C21}\tiny{\textsf{i always go to the right side outside bakery}}}}$ <br>
+text
 
-${{\color{#C04C21}\normalsize{\textsf{𝙎𝘼𝙁𝙀 𝙎𝙀𝙍𝙑𝙀𝙍 𝟮}}}}$ <br>
- 
-${{\color{#C04C21}\tiny{\textsf{near spawn.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{outside/inside bakery.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{pond near bakery.}}}}$ <br>
-${{\color{#C04C21}\tiny{\textsf{corners of the map.}}}}$ <br>
-<hr>
+<br>
+</details>
+
 <br>
 </details>
 
