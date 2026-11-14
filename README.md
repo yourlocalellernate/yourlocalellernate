@@ -1,4 +1,3 @@
-> feeling a little sick. i wont hop on pt daily.
 
 <br>
 <p align="center">
